@@ -1,4 +1,4 @@
-///----------( Created By KurrXd )----------\\\
+///----------( Created By SanzyXd )----------\\\
 
 /**
 BASE:DENIS
@@ -11,6 +11,7 @@ TQ TO:
 @ADI
 @KurrXd
 @Finx
+@Sanzy Yt
 * Note:
 * Kalau Mau Recode/Reupload Kasih Credit
 **/
@@ -139,7 +140,7 @@ let family100 = [];
 ky_ttt = []
 tttawal= ["0️⃣","1️⃣","2️⃣","3️⃣","4️⃣","5️⃣","6️⃣","7️⃣","8️⃣","9️⃣"]
 cmhit = []
-fake = "/> Tato KurrXd";
+fake = "/> Tato SanzyXd";
 autorespon = false
 playmusic = false
 menusimpel = false
@@ -1997,22 +1998,22 @@ case 'bego':
 case 'catalog': 
   if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: ftrol})
 
-                nama = ' Kurz Bot Assistan '
-       ownerJid = "6281220670449@s.whatsapp.net"
+                nama = ' Sanzy Bot Assistan '
+       ownerJid = "6281276698054@s.whatsapp.net"
                 nomor = 1
                 stod = `${sender}`
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menunya = `╭─❒ 「 Bot Info 」 ❒
- _Creator : *KurrXd*
+ _Creator : *SanzyXd*
  _Battery : ${baterai.battery}_
  _Mode : ${publik ? 'Public' : 'Self'}_
  _Total Hit : ${cmhit.length}_
  _Total menu : 385_
  _Prefix : ${multi ? 'Multi Prefix' : 'No Prefix'}_
- _Nama Bot : Kurz Bot Assistan_
+ _Nama Bot : Sanzy Bot Assistan_
  _Nama Owner : ${NamaOwner}_
- _Nomor Owner : KurrXd
+ _Nomor Owner : SanzyXd
  _Auto Composing : ${settings.autocomposing}_
  _Auto Recording : ${settings.autorecording}_
 └❏
